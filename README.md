@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Jessica Silva </h1>
 
-
-- Estudante de Marketing
-- Explorando MarTech e Análise de Dados  
+- Explorando MarTech
 - Cajamar, São Paulo
 
 ---
