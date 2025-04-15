@@ -1,5 +1,4 @@
 ## Olá! Eu sou a Jessica Silva :) </h1>
-
 - Explorando o MarTech;
 - Cajamar, São Paulo.
 
