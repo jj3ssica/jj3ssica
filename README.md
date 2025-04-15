@@ -1,10 +1,10 @@
-## Olá! Eu sou a Jessica Silva </h1>
+## Olá! Eu sou a Jessica Silva :) </h1>
 
-- Explorando MarTech
-- Cajamar, São Paulo
+- Explorando o MarTech;
+- Cajamar, São Paulo.
 
 ---
-## 💻⚒️ Developing skills in the following tools/languages.       
+## 💻 Developing skills in the following tools/languages.       
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![PopSQL](https://img.shields.io/badge/-PopSQL-333333?style=flat&logo=data&logoColor=white)
