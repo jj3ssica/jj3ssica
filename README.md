@@ -28,7 +28,7 @@
 [![Resumo do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jj3ssica&theme=github_dark)](https://github.com/jj3ssica)
 
 ---
- ##
+## 📫 Vamos nos conectar!
  
 <div> 
   <a href = "mailto:jessicactrlx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,9 +36,4 @@
   <a href="https://instagram.com/clevermodeon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
----
-## 📫 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jj3ssica)
-- ✉️ jessicactrlx@gmail.com
 ---
