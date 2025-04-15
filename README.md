@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou a Jessica Silva </h1>
+## Olá! Eu sou a Jessica Silva </h1>
+
 
 - Estudante de Marketing
-- Aprendendo SQL|Google Analytics|CRM|Python|Power BI
 - Explorando MarTech e Análise de Dados  
 - Cajamar, São Paulo
 
