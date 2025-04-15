@@ -6,9 +6,7 @@
 - Cajamar, São Paulo
 
 ---
-## 💻 Tech Stack:               
-
-**⚒️ Language and Tools**
+## 💻⚒️ Developing skills in the following tools/languages.       
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![PopSQL](https://img.shields.io/badge/-PopSQL-333333?style=flat&logo=data&logoColor=white)
