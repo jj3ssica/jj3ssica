@@ -14,7 +14,6 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=F2C811)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce&logoColor=00A1E0)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
